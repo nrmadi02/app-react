@@ -19,6 +19,7 @@ function App() {
           <h1>Get started</h1>
 	 <p>versi 2 - commit b2c3d4e</p>
    <p>versi 3 - deployed otomatis oleh platform</p>
+   <p>versi 4 - deployed otomatis oleh platform</p>
    
           <p>
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
